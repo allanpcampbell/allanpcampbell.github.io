@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Duet
-  favicon_image: /images/favicon.png
+  site_title: 
+  favicon_image: 
 
 header_settings:
   logo_image: 
