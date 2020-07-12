@@ -60,9 +60,9 @@ social_settings:
   linkedin_url: ''
 
 color_settings:
-  background_color: '#c4c4c4'
+  background_color: '#ffffff'
   background_alt_color: '#f4f5f6'
-  text_dark_color: '#2A2F36'
+  text_dark_color: '#7a59e4'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
   accent_color: '#7a59e4'
